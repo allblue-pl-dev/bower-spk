@@ -1,3 +1,10 @@
 {
-    "name": "spk"
+  "name": "spk",
+  "dependencies": {
+    "bluebird": "3.4.*",
+    "bootstrap": "3.3.*",
+    "jquery": "2.2.*",
+    "jquery-ui": "1.11.*",
+    "moment": "2.12.*"
+  }
 }
